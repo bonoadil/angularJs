@@ -1,6 +1,6 @@
 # angular-seed — Badges
-<a href='https://coveralls.io/r/bonoadil/angular'><img src='https://coveralls.io/repos/bonoadil/angular/badge.svg' alt='Coverage Status' /></a>
-<a href='https://travis-ci.org/bonoadil/angular'><img src='https://travis-ci.org/bonoadil/angular.svg?branch=master' alt='TravisCI Status' /></a>
+<a href='https://coveralls.io/r/bonoadil/angularJs'><img src='https://coveralls.io/repos/bonoadil/angularJs/badge.svg' alt='Coverage Status' /></a>
+<a href='https://travis-ci.org/bonoadil/angularJs'><img src='https://travis-ci.org/bonoadil/angularJs.svg?branch=master' alt='TravisCI Status' /></a>
 
 # angular-seed — the seed for AngularJS apps
 
